@@ -78,12 +78,11 @@
             <version>6.6</version>
         </dependency>
 
-        <!-- jar para acesso ao DB2 -->
-        <dependency>
-            <groupId>com.ibm.db2.jcc</groupId>
-            <artifactId>db2jcc4</artifactId>
-            <version>10.1</version>
-        </dependency>
+       <dependency>
+	<groupId>com.twilio.sdk</groupId>
+	<artifactId>twilio</artifactId>
+	<version>8.31.1</version>
+</dependency>
 
 	</dependencies>
 
