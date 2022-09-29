@@ -23,5 +23,20 @@
     "name": "twilio.phone.to",
     "type": "java.lang.String",
     "description": "A description for 'twilio.phone.to'"
+  },
+  {
+    "name": "twilio.whats.from",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.whats.from'"
+  },
+  {
+    "name": "twilio.whats.to",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.whats.to'"
+  },
+  {
+    "name": "twilio.whats.body",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.whats.body'"
   }
 ]}
